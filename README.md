@@ -1,2 +1,4 @@
-# intake
-This is a repo for accepting new APIs and profiling them.
+# API Intake
+This is a repo for organizing new APIs I come across that are in need of processing.
+
+You can submit an API using the GitHub issues for this repo and we will process ASAP.
